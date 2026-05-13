@@ -1,0 +1,11 @@
+Customer Type,Age,Type of Travel,Class,Flight Distance,Seat comfort,Departure/Arrival time convenient,Food and drink,Gate location,Inflight wifi service,Inflight entertainment,Online support,Ease of Online booking,On-board service,Leg room service,Baggage handling,Checkin service,Cleanliness,Online boarding,Departure Delay in Minutes,Arrival Delay in Minutes,satisfaction,Prediction,Prediction_Label
+Loyal Customer,34,Business travel,Business,2500,5,4,4,3,5,5,5,4,5,5,5,4,5,5,10,12,satisfied,1,Churn
+Disloyal Customer,28,Personal Travel,Eco,850,2,3,2,2,2,2,2,2,2,2,3,3,2,2,45,50,neutral or dissatisfied,0,Not Churn
+Loyal Customer,45,Business travel,Business,3200,5,5,5,4,5,5,5,5,5,5,5,5,5,5,0,5,satisfied,1,Churn
+Loyal Customer,39,Personal Travel,Eco Plus,1400,3,3,3,3,3,3,3,3,3,3,3,3,3,3,15,18,neutral or dissatisfied,1,Churn
+Disloyal Customer,22,Personal Travel,Eco,700,1,2,2,2,1,1,1,1,2,2,2,2,2,1,60,65,neutral or dissatisfied,0,Not Churn
+Loyal Customer,50,Business travel,Business,4200,5,4,5,4,5,5,5,5,5,5,5,5,5,5,2,4,satisfied,1,Churn
+Loyal Customer,31,Business travel,Eco Plus,1800,4,4,4,3,4,4,4,4,4,4,4,4,4,4,8,10,satisfied,1,Churn
+Disloyal Customer,26,Personal Travel,Eco,950,2,2,2,2,2,2,2,2,2,2,2,2,2,2,35,40,neutral or dissatisfied,0,Not Churn
+Loyal Customer,41,Business travel,Business,3800,5,5,4,4,5,5,5,5,5,5,5,5,5,5,1,3,satisfied,1,Churn
+Loyal Customer,37,Personal Travel,Eco Plus,1600,3,4,3,3,3,4,3,3,3,3,3,3,4,3,12,15,neutral or dissatisfied,1,Churn
