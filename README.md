@@ -224,20 +224,6 @@ http://127.0.0.1:5000
 
 ---
 
-# 📷 Screenshots
-
-Add screenshots of your Flask web app and prediction output here.
-
-Example:
-
-```markdown
-![Home Page](images/homepage.png)
-
-![Prediction Output](images/output.png)
-```
-
----
-
 # 👩‍💻 Author
 
 ## Sakshi Parate
