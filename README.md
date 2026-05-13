@@ -109,9 +109,20 @@ The preprocessing pipeline includes:
 
 ---
 
-# ⚙️ Model Training
+# ⚙️ Model Training & Accuracy
 
 Different machine learning models were trained and evaluated to compare performance and identify the best model for passenger satisfaction prediction.
+
+| Model | Accuracy |
+|------|------|
+| Logistic Regression | 73% |
+| K-Nearest Neighbors (KNN) | 72% |
+| Decision Tree | 71% *(Overfitted)* |
+| Random Forest | 72% *(Slightly Overfitted)* |
+| Support Vector Machine (SVM) | 73% |
+| Naive Bayes | 71% |
+| XGBoost | 73% |
+| Artificial Neural Network (ANN) | 73% |
 
 ### Evaluation Metrics:
 - Accuracy Score
@@ -168,15 +179,11 @@ Airline-Passenger-Satisfaction-Prediction/
 git clone https://github.com/sakshu3606/Airline-Passenger-Satisfaction-Prediction.git
 ```
 
----
-
 ## 🔹 Step 2: Navigate to Project Folder
 
 ```bash
 cd Airline-Passenger-Satisfaction-Prediction
 ```
-
----
 
 ## 🔹 Step 3: Install Required Libraries
 
@@ -184,15 +191,11 @@ cd Airline-Passenger-Satisfaction-Prediction
 pip install -r requirements.txt
 ```
 
----
-
 ## 🔹 Step 4: Run Flask Application
 
 ```bash
 python app.py
 ```
-
----
 
 ## 🔹 Step 5: Open Browser
 
